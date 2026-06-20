@@ -169,15 +169,3 @@ Models were evaluated on a **20% stratified test set** (964 Ham and 149 Spam mes
 </p>
 
 ---
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 👤 Author
-
-Developed by **[Your Name]** - feel free to reach out or contribute!
-- **GitHub:** [@yourusername](https://github.com/your-username)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
